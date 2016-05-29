@@ -1,0 +1,6 @@
+c:\users\alamin\documents\visual studio 2013\Projects\FinalProject\FinalProject\bin\FinalProject.dll.config
+c:\users\alamin\documents\visual studio 2013\Projects\FinalProject\FinalProject\bin\FinalProject.dll
+c:\users\alamin\documents\visual studio 2013\Projects\FinalProject\FinalProject\bin\FinalProject.pdb
+c:\users\alamin\documents\visual studio 2013\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+c:\users\alamin\documents\visual studio 2013\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.dll
+c:\users\alamin\documents\visual studio 2013\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
